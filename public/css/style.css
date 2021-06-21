@@ -1,0 +1,18 @@
+.rating{
+    color:orange;
+}
+.dot {
+    height: 10px;
+    width: 10px;
+    margin-bottom: 15px;
+    margin-right: 5px;
+    background-color: rgb(255, 5, 5);
+    border-radius: 50%;
+    display: inline-block;
+}
+
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
